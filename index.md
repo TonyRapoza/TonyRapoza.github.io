@@ -4,6 +4,10 @@ You can use the [editor on GitHub](https://github.com/TonyRapoza/TonyRapoza.gith
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+Hello! My name is Tony Rapoza and I am a currently pusuing a bachelor's degree in Computer Science with a focus in Software Engineering at Southern New Hampshire University.
+
+Below you will find a collection of my personal and academic work that I feel showcases my capabilities as a programmer.
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
