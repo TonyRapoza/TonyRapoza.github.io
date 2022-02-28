@@ -21,7 +21,9 @@ This artifact was originally created very early on in my program at Southern New
 
 **Code Review**
 
-Watch the Code Review [here](https://www.youtube.com/watch?v=M5ny2Zl_mmw)
+Watch the Code Review [here](https://www.youtube.com/watch?v=M5ny2Zl_mmw).
+
+You can find a zip containing all of the original and enhanced scripts [here](https://github.com/TonyRapoza/QuestListEnhancements/blob/main/QuestList%20Enhancements.zip).
   
 
 **Artifact Enhancement: Software Design and Engineering**
