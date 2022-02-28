@@ -29,7 +29,7 @@ This particular enhancement was porting the project from Android Studio to Unity
 Reflecting on the process, I feel as though I learned a lot of what to expect and what challenges I will face implementing the remaining two enhancements. One issue I encountered was figuring out how to make the account registration function in MacOS compared to Android. In Android, the account registration could be handled internally through SQLite, but on MacOS there are far more options for account storage than in Android meaning there are various security and programming concerns and benefits that needed to be weighed. Additionally, Unity has a much more robust system for managing UI and tying it into your scripts. As a result, I had to adjust to handle UI object interaction completely different than in Android Studio.
 
 
-**Artifact Enhancement: Algorithms and Data Structures*
+**Artifact Enhancement: Algorithms and Data Structures**
 
 This enhancement was probably the most broad and expansive of them all. Porting over the project in the first enhancement provided some initial hurdles but was smooth sailing after that. My primary focus with this enhancement was increasing the efficiency of the code and restructuring it in a way that was more re-usable and customizable. I decided to pursue this by making the entire code structure of the program built around integration with a custom-built script-based database back-end I was developing. This allowed me to integrate database management directly into my scripts and functions without having to worry about managing two separate systems at the same time.
 
