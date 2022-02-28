@@ -21,7 +21,7 @@ This artifact was originally created very early on in my program at Southern New
 
 **Code Review**
 
-Watch the Code Review Here: https://www.youtube.com/watch?v=M5ny2Zl_mmw
+Watch the Code Review [here](https://www.youtube.com/watch?v=M5ny2Zl_mmw)
   
 
 **Artifact Enhancement: Software Design and Engineering**
@@ -46,5 +46,6 @@ Upon implementing this change, I realized that I was able to create databases fo
 
 
 **The Final Result**
-Check out the final version of QuestList here: https://www.youtube.com/watch?v=M5ny2Zl_mmw
+
+Check out the final version of QuestList [here](https://www.youtube.com/watch?v=3HfLWCW2sT0)
 
