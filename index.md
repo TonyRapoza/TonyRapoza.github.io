@@ -10,7 +10,7 @@ In the second enhancement you will see my ability to streamline, expand, organiz
 
 Finally, in my third enhancement to this artifact, I will be converting the project over to the previously mentioned database system that I built. This shows not only my ability to completely build a back-end system from scratch, but also my ability to structure it in a way that is re-usable, efficient, and customizable to the program I have built. I also hope my narrative will convey to you my thought process behind why I decided to migrate to a custom system from the original SQLite system.
 
-Throughout this portfolio, I have made an effort to showcase my desire and ability to maximize efficiency and work smarter, not harder. I value re-usability, readability, and customizability above all else when programming as most of the time other people will be collaborating with me and these attributes make collaboration and teamwork run smoothly.
+Throughout this portfolio, I have showcased my desire and ability to maximize efficiency and work smarter, not harder. I value re-usability, readability, and customizability above all else when programming as most of the time other people will be collaborating with me and these attributes make collaboration and teamwork run smoothly. This also shows that I am experienced in tailoring code specifically optimized to support organizational decisions. I also have shown that not only am I able to implement well established practices, but I am also an out of the box thinker. Lastly, I built my program in a way that prioritized security best practices.
 
 Thank you for taking the time to read about me and my approach to programming.
 
