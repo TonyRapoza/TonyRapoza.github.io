@@ -21,9 +21,7 @@ This artifact was originally created very early on in my program at Southern New
 
 **Code Review**
 
-<p align='center'>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M5ny2Zl_mmw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </p>
   
 
 **Artifact Enhancement: Software Design and Engineering**
