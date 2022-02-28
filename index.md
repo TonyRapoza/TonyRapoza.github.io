@@ -15,6 +15,34 @@ Throughout this portfolio, I have made an effort to showcase my desire and abili
 Thank you for taking the time to read about me and my approach to programming.
 
 
+### Task Management Artifact
+
+This artifact was originally created very early on in my program at Southern New Hampshire University. It is a task management application that allows a user to create an account, log in, and manage daily tasks. It was designed for a user to keep track of daily tasks that they could create and mark as complete.
+
+**Code Review**
+
+
+**Artifact Enhancement: Software Design and Engineering**
+
+This particular enhancement was porting the project from Android Studio to Unity. This required the codebase to be rebuilt using C# instead of the original Java. This change added much needed flexibility in UI and UX design as well as code efficiency for the application to function at its smoothest. This enhancement was accomplished with relative ease thanks to my existing knowledge and experience with C#. However, the app will still require two following enhancements for it to be fully functional.
+
+Reflecting on the process, I feel as though I learned a lot of what to expect and what challenges I will face implementing the remaining two enhancements. One issue I encountered was figuring out how to make the account registration function in MacOS compared to Android. In Android, the account registration could be handled internally through SQLite, but on MacOS there are far more options for account storage than in Android meaning there are various security and programming concerns and benefits that needed to be weighed. Additionally, Unity has a much more robust system for managing UI and tying it into your scripts. As a result, I had to adjust to handle UI object interaction completely different than in Android Studio.
+
+
+**Artifact Enhancement: Algorithms and Data Structures*
+
+This enhancement was probably the most broad and expansive of them all. Porting over the project in the first enhancement provided some initial hurdles but was smooth sailing after that. My primary focus with this enhancement was increasing the efficiency of the code and restructuring it in a way that was more re-usable and customizable. I decided to pursue this by making the entire code structure of the program built around integration with a custom-built script-based database back-end I was developing. This allowed me to integrate database management directly into my scripts and functions without having to worry about managing two separate systems at the same time.
+
+One massive benefit of the increased efficiency by integrating the database and program functionality into one was that I was able to eliminate some of the security concerns that existed prior. Thanks to Unity’s built in JSON Utility and PlayerPrefs libraries, I was able to partition every piece of data within my database so that injections ran into them would not be able to gain any information outside of what they had just injected. Using data structures in this way required constant thought throughout development, but ultimately resulted in a more efficient and secure program.
+
+
+**Artifact Enhancement: Database**
+
+By far my most cherished of the enhancement, I spent time throughout this project looking for a way to implement in a database in Unity that wouldn’t cause issues when ported to different devices. I learned that I could keep my original SQLite database structure, but that some mac devices could run into issues with it in Unity. As a result, I decide to replace it with a more elegant system of creating a script-based database that integrates seamlessly in Unity via C#. This system allowed you to code your scripts as you normally would without considering a database framework in the background and instead taking all of your updated lists and arrays, saving them to files, and loading the information back in whenever you choose. All of this is done using Unity’s built-in libraries and is handled completely in C#.
+
+Upon implementing this change, I realized that I was able to create databases for user accounts, tasks, and player profiles. I could partition these however I wanted and handle all of their functionality at runtime from within Unity without having to rely on any third-party tie-ins.
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -36,13 +64,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TonyRapoza/TonyRapoza.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
