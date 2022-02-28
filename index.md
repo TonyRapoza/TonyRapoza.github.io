@@ -45,24 +45,6 @@ By far my most cherished of the enhancement, I spent time throughout this projec
 Upon implementing this change, I realized that I was able to create databases for user accounts, tasks, and player profiles. I could partition these however I wanted and handle all of their functionality at runtime from within Unity without having to rely on any third-party tie-ins.
 
 
-### Markdown
+**The Final Result**
+Check out the final version of QuestList here: https://www.youtube.com/watch?v=M5ny2Zl_mmw
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
